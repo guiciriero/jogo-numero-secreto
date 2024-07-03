@@ -10,7 +10,7 @@
 </div>
 
 <h2>📁  Deploy </h2> Nos links abaixo é possível visualizar a página do Número Secreto. 
-- Implantado via vercel https://numero-secreto-alura-renatoccs.vercel.app/ <br> 
+Implantado via vercel https://numero-secreto-alura-renatoccs.vercel.app/ <br> 
 
 <h2>:handshake: Contribuição </h2> Contribuições são bem-vindas! Se você deseja melhorar este projeto, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_. Obrigado por visitar meu GitHub dê um ["Follow"](https://github.com/RenatoCCS), que sigo de volta 😁, podemos trocas de ideias para novos projetos. <br> 
 
