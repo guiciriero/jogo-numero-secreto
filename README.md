@@ -10,9 +10,9 @@
 </div>
 
 <h2>📁  Deploy </h2> Nos links abaixo é possível visualizar a página do Número Secreto. 
-<p>Implantado via vercel https://numero-secreto-alura-renatoccs.vercel.app/</p>
+<p>Implantado via Vercel https://numero-secreto-alura-renatoccs.vercel.app/</p>
 
-<h2>:handshake: Contribuição </h2> Contribuições são bem-vindas! Se você deseja melhorar este projeto, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_. Obrigado por visitar meu GitHub dê um ["Follow"](https://github.com/RenatoCCS), que sigo de volta 😁, podemos trocas de ideias para novos projetos. <br> 
+<h2>:handshake: Contribuição</h2> Contribuições são bem-vindas! Se você deseja melhorar este projeto, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request. Obrigado por visitar meu GitHub e se possivel dê um <a href= "https://github.com/guiciriero">Follow</a>, que sigo de volta 😁, podemos trocas de ideias para novos projetos. <br> 
 
 <h2>:trophy: Créditos </h2> Se gostou do projeto e deseja fazer também, pode conferir o repositório original [aqui](https://github.com/alura-cursos/logica-js/tree/aula_5) e deixar uma ⭐️! <br>
 
