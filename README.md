@@ -10,7 +10,7 @@
 </div>
 
 <h2>📁  Deploy </h2> Nos links abaixo é possível visualizar a página do Número Secreto. 
-<p>Implantado via Vercel https://numero-secreto-alura-renatoccs.vercel.app/</p>
+<p>Implantado via <a href= "https://jogo-do-numero-secreto-psi-blond.vercel.app/">Vercel</a></p>
 
 <h2>:handshake: Contribuição</h2> Contribuições são bem-vindas! Se você deseja melhorar este projeto, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request. Obrigado por visitar meu GitHub e se possivel dê um <a href= "https://github.com/guiciriero">Follow</a>, que sigo de volta 😁, podemos trocas de ideias para novos projetos. <br> 
 
