@@ -1,6 +1,7 @@
 <h1>Jogo do número secreto</h1
                             
-<h2>💻 Projeto  </h2> Bem-vindo ao "Número Secreto", um jogo para adivinhação. Nesse projeto foi fornecido o html e css, e o desenvolvimento foi feito em javascript através das aulas da [Alura](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript) com os instrutores [Mônica Hillman](https://github.com/MonicaHillman) e [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/).<br> <br> Foram abordados temas como: - Utilizar o alert e prompt para realizar pop-up com perguntas para serem armazenadas em variáveis. - If e else para verificar a lógica e identificar se um número é maior ou menor e dar dicas. - While para o processo de repetição e break para parar em determinado momento. <br><br> 
+<h2>💻 Projeto  </h2> Bem-vindo ao "Número Secreto", um jogo para adivinhação. Nesse projeto foi fornecido o html e css, e o desenvolvimento foi feito em javascript através das aulas da [Alura](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript) com os instrutores [Mônica Hillman](https://github.com/MonicaHillman) e [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/).<br> 
+<br> Foram abordados temas como: Utilizar o alert e prompt para realizar pop-up com perguntas para serem armazenadas em variáveis. - If e else para verificar a lógica e identificar se um número é maior ou menor e dar dicas. - While para o processo de repetição e break para parar em determinado momento. <br><br> 
 
 <h2>:floppy_disk: Tecnologias Utilizadas </h2> - <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
